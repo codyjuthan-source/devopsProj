@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "TEN"0
+echo "TEN"
