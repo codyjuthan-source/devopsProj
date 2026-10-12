@@ -1,3 +1,5 @@
 #!/bin/bash
-echo "TWO(2)"
-./count3.sh
+TWO-V2
+echo "2(TWO)"
+
+
